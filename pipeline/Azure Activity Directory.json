@@ -13,12 +13,12 @@
 					"secureInput": false
 				},
 				"typeProperties": {
-					"url": "https://login.microsoftonline.com/<YOUR_TENANT>/oauth2/token",
+					"url": "https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47/oauth2/token",
 					"method": "POST",
 					"headers": {
 						"Content-Type": "application/x-www-form-urlencoded"
 					},
-					"body": "grant_type=client_credentials&client_id=<YOUR_CLIENT_ID>&client_secret=<YOUR_CLIENT_KEY>&resource=https://management.azure.com/"
+					"body": "grant_type=client_credentials&client_id=e39714d8-5bcd-48ce-aab8-88f3a6f43d0a&client_secret=wJWacO9WbZRPgs1GGpqnobeB3YV98kKskMgxkCZMXds=&resource=https://management.azure.com/"
 				}
 			},
 			{
