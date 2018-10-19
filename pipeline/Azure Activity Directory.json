@@ -40,7 +40,7 @@
 					"secureInput": false
 				},
 				"typeProperties": {
-					"url": "https://management.azure.com/subscriptions/<YOUR_SUBSCRIPTION>/resourceGroups/<YOUR_RESOURCE_GROUP>/providers/Microsoft.DataFactory/factories/<YOUR_DATA_FACTORY>/linkedservices/<YOUR_LINKED_SERVICE>?api-version=2018-06-01",
+					"url": "https://management.azure.com/subscriptions/1b0b7118-35be-4410-8d9b-101e65f48a4c/resourceGroups/rggrwe/providers/Microsoft.DataFactory/factories/adfgrv2704/linkedservices/AzureBlobtrg?api-version=2018-06-01",
 					"method": "PUT",
 					"headers": {
 						"Authorization": {
